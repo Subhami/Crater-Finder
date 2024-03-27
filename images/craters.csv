@@ -1,0 +1,24 @@
+SI No,CraterName,Country,Latitude,Longitude,Type,Diameter 
+1,BeyenchimeSalaatin,Russia,71° 03' 29? N ,121° 41' 23? E,Complex,8
+2,Bigach,Kazakhstan,48° 34' 33? N ,82° 02' 11? E,Complex,8
+3,Chiyli,Kazakhstan,49° 10' 32? N ,57° 50' 01? E,Complex,5.5
+4,Chukcha,Russia,75° 42' 22? N ,97° 50' 46? E,Complex,6
+5,Dhala,India,25° 17' 55? N ,78° 08' 33? E,Complex,12
+6,El’ygytgyn,Russia,67° 29' 31? N ,172° 03' 37? E,Complex,18
+7,Jebel Waqf as Suwwan,Jordan,31° 02' 54? N ,36° 48' 24? E,Complex,6.1
+8,Kara-Kul,Tajikistan,39° 04' N ,73° 26' E,Complex,52
+9,Logancha,Russia,65° 29' 54? N ,95° 57' 15? E,Complex,14
+10,Lonar,India,19° 58' 36? N ,76° 30' 32? E,Simple,1.88
+11,Macha,Russia,60° 05' 07? N ,117° 39' 08? E,Simple,0.3
+12,Popigai,Russia,71° 38' N, 111° 11' E,Complex,100
+13,Ragozinka,Russia,58° 42' 17? N ,61° 47' 50? E,Complex,9
+14,Ramgarh,India,25° 20' 03? N ,76° 37' 28? E,Complex,10.2
+15,Saqqar,Saudi Arabia,29° 35' N ,38° 42' E,Complex,34
+16,Shunak,Kazakhstan,47° 12' 35? N, 72° 45' 41? E,Simple,2.8
+17,Sikhote Alin,Russia,46° 09' 36? N ,134° 39' 12? E,Simple,0.026
+18,Sobolev,Russia,46° 18' 22? N ,137° 52' 24? E,Simple,0.053
+19,Tabun-KharaObo,Mongolia,44° 07' 52? N ,109° 39' 17? E,Simple,1.3
+20,Wabar,Saudi Arabia,21° 30' 12? N ,50° 28' 20? E,Simple,0.116
+21,Xiuyan,China,40° 21' 52? N ,123° 27 39? E,Simple,1.8
+22,Yilan,,"46° 23' 03"" N ","129° 18' 40"" E",Simple,1.85
+23,Zhamanshin,Kazakhstan,48° 21' 38? N ,60° 56' 12? E,Complex,14
